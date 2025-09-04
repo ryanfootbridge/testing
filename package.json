@@ -1,0 +1,12 @@
+{
+  "name": "cbc-construction-website",
+  "version": "1.0.0",
+  "description": "CBC Construction Inc. multi-page website",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["cbc", "construction", "website"],
+  "author": "",
+  "license": "MIT"
+}
